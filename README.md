@@ -1,7 +1,7 @@
 # CHART.JS SAMPLES
 I could not find anynice place with good ready to use samples for Chart.Js so here you go im making one :P
 
-- piechart samples
+- DONUT chart samples https://github.com/lakshaysethi/Chart.js-plus-samples/blob/master/SAMPLES/donut.html
 - bar chart samples
 
 
