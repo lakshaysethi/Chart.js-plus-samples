@@ -4,10 +4,7 @@
 <canvas id="myChart" style="width:100%;max-width:700px"></canvas>
   
   <script>
-    const config = {
-  type: 'doughnut',
-  data: data,
-};
+   
     const data = {
   labels: [
     'Red',
@@ -24,6 +21,11 @@
     ],
     hoverOffset: 4
   }]
+};
+	  
+	   const config = {
+  type: 'doughnut',
+  data: data,
 };
     let myChart = new Chart("myChart", config);
   </script>
