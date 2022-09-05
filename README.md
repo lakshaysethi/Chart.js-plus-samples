@@ -1,3 +1,12 @@
+# CHART.JS SAMPLES
+I could not find anynice place with good ready to use samples for Chart.Js so here you go im making one :P
+
+- piechart samples
+- bar chart samples
+
+
+
+
 <p align="center">
   <a href="https://www.chartjs.org/" target="_blank">
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="https://www.chartjs.org/"><br/>
